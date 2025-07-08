@@ -1,11 +1,3 @@
-<h1 align="center">👋 Olá, eu sou o Lucas!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
-</p>
-
----
-
 ### 📌 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
