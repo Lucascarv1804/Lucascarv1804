@@ -1,9 +1,9 @@
 ### 📌 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Estagiário na **Agência Estadual de Tecnologia da Informação de Pernambuco**
-- 🎯 Em busca de evoluir como desenvolvedor e transformar ideias em soluções
-- 📚 Atualmente estudando **JavaScript**, **React** e **Python**
+- 🎓 Studying **Systems Analysis and Development**
+- 💻 Intern at **Pernambuco State Information Technology Agency (ATI-PE)**
+- 🎯 Passionate about turning ideas into real solutions
+- 📚 Currently learning **JavaScript**, **React** and **Python**
 
 ---
 
