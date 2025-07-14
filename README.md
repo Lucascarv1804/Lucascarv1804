@@ -1,4 +1,4 @@
-### 📌 Sobre mim
+### 📌 About Me
 
 - 🎓 Studying **Systems Analysis and Development**
 - 💻 Intern at **Pernambuco State Information Technology Agency (ATI-PE)**
